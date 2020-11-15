@@ -294,7 +294,7 @@ footer {
 }
 footer .container {
   display: flex;
-  column-gap: 20px;
+  column-gap: 40px;
   justify-content: space-between;
 }
 footer h3 {
